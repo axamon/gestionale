@@ -1,2 +1,1 @@
 # gestionale
-# gestionale
